@@ -7,13 +7,13 @@ export default function Weather() {
       <strong id="temp-today">19 </strong>
       <span class="units">
         {" "}
-        <a href="#" id="celsius" class="active">
+        <span id="celsius" class="active">
           °C{" "}
-        </a>{" "}
+        </span>{" "}
         |{" "}
-        <a href="#" id="fahrenheit">
+        <span id="fahrenheit">
           °F
-        </a>{" "}
+        </span>{" "}
       </span>
       <h4 id="weather-description">Partly cloudy</h4>
       <h4 id="humidity">Humidity: 80</h4>
