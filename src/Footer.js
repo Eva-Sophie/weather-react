@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <small>
       <a
-        href="https://github.com/Eva-Sophie/Final-Project-Weather-App"
+        href="https://github.com/Eva-Sophie/weather-react"
         target="_blank"
       >
         Open-source code
